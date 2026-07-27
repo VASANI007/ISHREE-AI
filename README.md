@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/VASANI007/ISHREE-AI/main/ishree.png" alt="ISHREE AI Logo" width="1000">
-</div
+</div>
   
 # 🤖 ISHREE AI
 
