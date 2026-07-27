@@ -3,8 +3,6 @@
 <img src="https://raw.githubusercontent.com/VASANI007/ISHREE-AI/main/ishree.png" alt="ISHREE AI Logo" width="1000">
 </div>
   
-# 🤖 ISHREE AI
-
 ### Your Personal AI Operating System
 
 ![Status](https://img.shields.io/badge/Status-🚧%20Under%20Construction-blue?style=for-the-badge)
