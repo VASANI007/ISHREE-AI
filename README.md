@@ -1,81 +1,52 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/VASANI007/ISHREE-AI/main/ishree.png" alt="ISHREE AI Logo" width="220">
+
 # 🤖 ISHREE AI
 
-> Your Personal AI Operating System
+### Your Personal AI Operating System
 
-![Status](https://img.shields.io/badge/Status-Under%20Construction-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-🚧%20Under%20Construction-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?style=for-the-badge&logo=windows)
+![License](https://img.shields.io/badge/License-Apache%202.0-green?style=for-the-badge)
 
----
+**🚀 Inspired by JARVIS & FRIDAY**
 
-## 🚧 Under Construction
+*An Advanced Personal AI Operating System*
 
-ISHREE AI is currently under active development.
-
-The project is being built from scratch with the goal of creating a next-generation Personal AI Operating System inspired by JARVIS and FRIDAY.
-
-This repository is not yet ready for production use.
-
----
-
-## Vision
-
-Build the world's most advanced Personal AI Operating System capable of understanding, reasoning, communicating, and executing tasks across local devices and the internet.
+</div>
 
 ---
 
-## Planned Features
+# 🚧 Under Construction
 
-- Voice Assistant
-- Local Computer Control
-- AI Memory
-- Multi-Agent System
-- Code Assistant
-- Vision AI
-- Smart Automation
-- Email Management
-- Phone Calls
-- WhatsApp Integration
-- Browser Automation
-- File Intelligence
-- Developer Mode
-- Security System
-- Smart Home Integration
-- Plugin System
+> **ISHREE AI is currently under active development.**
+
+This repository is being built from scratch to create a next-generation AI Operating System capable of understanding, reasoning, communicating, and executing tasks across local devices and the internet.
+
+## ⚠️ Current Status
+
+- 🚧 Core AI Engine
+- 🚧 Voice Assistant
+- 🚧 Memory System
+- 🚧 Vision AI
+- 🚧 System Automation
+- 🚧 UI Dashboard
+- 🚧 Plugin Architecture
 
 ---
 
-## Technology Stack
+## ⭐ Stay Tuned
 
-- Python
-- FastAPI
-- Streamlit
-- PySide6
-- OpenAI
-- Gemini
-- Whisper
-- Ollama
-- SQLite
-- Docker
+More exciting features will be released soon.
+
+If you like this project, don't forget to ⭐ star this repository.
 
 ---
 
-## Current Status
+<div align="center">
 
-🚧 UI Development
+Made with ❤️ by **Daksh Vasani**
 
-🚧 AI Core
-
-🚧 Voice Engine
-
-🚧 Memory System
-
-🚧 Plugin Architecture
-
----
-
-## License
-
-This project is licensed under the Apache License 2.0.
-
----
-
-Made with ❤️ by Daksh Vasani
+</div>
