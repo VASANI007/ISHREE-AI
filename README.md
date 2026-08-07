@@ -218,7 +218,7 @@ This project is licensed under the **MIT License**.
 
 ---
 
-<div align="center">
+
 
 ## 👨‍💻 Developer
 
@@ -230,4 +230,4 @@ Building the Future of Personal AI Operating Systems
 
 ⭐ Star this repository if you like the project!
 
-</div>
+
