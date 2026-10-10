@@ -5,7 +5,6 @@
 
 <br>
 
-# ⚙️ ISHREE AI
 ### Personal AI Operating System · Local-First · Multi-Agent · Cross-Device
 
 **Created by Daksh Vasani** · M.Sc. Data Science · [@VASANI007](https://github.com/VASANI007)
